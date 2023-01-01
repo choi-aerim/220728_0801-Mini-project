@@ -47,7 +47,7 @@
 ## 사용한 모듈
 - 언어 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 - 구축환경 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
-- 활용 기술 <img src="https://img.shields.io/badge/Selenium-00660?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Geopy-FF0000?style=flat-square&logo=Geopy&logoColor=white"/> <img src="https://img.shields.io/badge/Follium-004088?style=flat-square&logo=Geopy&logoColor=white"/>
+- 활용 기술 <img src="https://img.shields.io/badge/Selenium-00660?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Geopy-FF0000?style=flat-square&logo=Geopy&logoColor=white"/> <img src="https://img.shields.io/badge/Folium-004088?style=flat-square&logo=Folium&logoColor=white"/>
 - 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/>
 
 
@@ -67,10 +67,5 @@
 | 5일차 | ☑️ | 발표 |
 
 <br/>
-
-# 💬 아쉬웠던 점
-
-| 최애림, 이명진, 양주희 | ... | 
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FleejunghyunA%2Fthird_project&count_bg=%23D54A1C&title_bg=%23555555&icon=myspace.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
