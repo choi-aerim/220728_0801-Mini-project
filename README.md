@@ -2,9 +2,7 @@
 
 # 📊 발표주제 및 자료
 ### 서울시 흡연부스 위치맵 서비스 
-[![발표자료 보러가기](https://user-images.githubusercontent.com/108326629/210029729-f3f9c7db-737b-4d11-b542-7294d28031e3.png "발표자료 보러가기")](https://docs.google.com/presentation/d/1t8-dkB2IBRQoJ1jgA2k_jGG7kQ5l39Zg/edit#slide=id.p1)<br/>
-
-[![발표자료 보러가기](https://user-images.githubusercontent.com/108326629/210164132-1ace0073-bd6a-475c-8a47-d5dca2ab0912.png) "발표자료 보러가기")](https://docs.google.com/presentation/d/1aFY0WyDiRmbCeNN6i_s_P8vVIm_wSBFvrChNrEmvdJA/edit?usp=drive_web&ouid=115065532542228165108)<br/>
+[![발표자료 보러가기](https://user-images.githubusercontent.com/108326629/210164132-1ace0073-bd6a-475c-8a47-d5dca2ab0912.png "발표자료 보러가기")](https://docs.google.com/presentation/d/1aFY0WyDiRmbCeNN6i_s_P8vVIm_wSBFvrChNrEmvdJA/edit?usp=drive_web&ouid=115065532542228165108)<br/>
 </br>
 
 # 👩‍👩‍👧‍👦 팀원 소개
