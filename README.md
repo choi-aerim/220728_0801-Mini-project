@@ -40,18 +40,15 @@
 응답자 모두 현재의 금연구역과 흡연구역에 대한 변화가 필요하다는 점에 대해 공감하였고, 이를 활용하여 흡연 구역 안내에 대한 서비스를 구현해야겠다고 생각함
 지금까지의 기획 배경과 사회적 분위기를 인지하고, 관련한 솔루션을 제공하기로 함
 
-### 기획
-저희 조는 서울시의 흡연 구역 위치에 대한 공공 데이터를 추출하고
-이를 지도에 핀하여 
-흡연자와 지자체에 제공하는 서비스를 제안합니다
-
+### 최종 목표
+서울시의 흡연 구역 위치에 대한 공공 데이터를 추출하고 이를 지도에 핀하여 흡연자와 지자체에 제공하는 서비스를 제안함
 
 
 ## 사용한 모듈
 - 언어 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 - 구축환경 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
-- 활용 기술  <img src="https://img.shields.io/badge/Pycaret-3776AB?"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/OpenSlides-3776AB?"/>
-- 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+- 활용 기술 <img src="https://img.shields.io/badge/Selenium-3776AB?style=for-the-badge&logo=Selenium&logoColor=white">
+- 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/>
 
 
 
